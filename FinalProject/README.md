@@ -33,7 +33,7 @@ Student records are kept in an alphabetical order using a linked list. If a stud
 The output file should look like this :
 
 ```
-User Email,Name (Original Name),A,B,C,D,E,F,G,H,U,Attendance (Percentage)
+User Email,Name (Original Name),A,B,C,D,E,F,G,H,I,Attendance (Percentage)
 adeline.larsen@mail.mcgill.ca,Adeline Larsen,62,57,0,0,45,51,58,60,60,77.78
 ...
 sophie.cao@mail.mcgill.ca,Sophie Cao,65,58,57,64,43,50,53,60,59,88.89
