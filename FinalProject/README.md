@@ -1,8 +1,8 @@
 # Final Project
-This final projects implements a software solution consisting of shell scripts and a C program to compute the lab attendance associated with students attending the class (on Zoom).\
+This final projects implements a software solution consisting of shell scripts and a C program to compute the lab attendance associated with students attending the class (on Zoom).
 
 ## Part 1 : A Shell Script to Pre-process the Information in the CSV Files
-This script searches through an input directory, gathers all files with format "lab-\*.csv", compiles the data and builds a consolidated CSV file that contains the records in a common format.\
+This script searches through an input directory, gathers all files with format "lab-\*.csv", compiles the data and builds a consolidated CSV file that contains the records in a common format. <br /> 
 
 The CSV files follow two specific formats : 
 
@@ -28,7 +28,7 @@ sophie.cao@mail.mcgill.ca,Sophie Cao,G,58
 
 ## Part 2 : A C Program to Compute the Attendance
 This program computes the attendance associated with each student. It processes the duration of each lab for each student, taking into consideration that a given student may have multiple records for a single lab. 
-Student records are kept in an alphabetical order using a linked list. If a student does not have a zoom record for a particular lab, then it is recorded as 0 duration.\
+Student records are kept in an alphabetical order using a linked list. If a student does not have a zoom record for a particular lab, then it is recorded as 0 duration. <br /> 
 
 The output file should look like this :
 
