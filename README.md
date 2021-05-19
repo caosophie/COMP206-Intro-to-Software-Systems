@@ -7,4 +7,4 @@ This is a repository for COMP206 (Introduction to Software Systems) assignments 
 3. Assignment 3
 4. Assignment 4
 5. Assignment 5
-6. Final Project
+6. [Final Project](FinalProject)
