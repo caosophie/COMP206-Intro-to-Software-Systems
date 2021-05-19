@@ -11,7 +11,7 @@ $ head -2 lab1/lab-A.csv
 Name (Original Name),User Email, Total Durection(Minutes),Guest
 Sophie Cao,sophie.cao@mail.mcgill.ca,65,No
 ```
-<br>
+
 ```
 $head -2 lab5/Lab-A.csv
 Name (Original Name),User Email,Join Time,Leave Time,Duration (Minutes),Guest
